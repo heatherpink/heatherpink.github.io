@@ -13,4 +13,4 @@ eating it. The agents can also interact each other and share the resources they 
 
 [Model documentation](https://heatherpink.github.io/model%20documentation.html)
 
-[Agentbasedframework documentation](https://heatherpink.github.io/agentframework%20documentation.html)
+[Agentframework documentation](https://heatherpink.github.io/agentframework%20documentation.html)
