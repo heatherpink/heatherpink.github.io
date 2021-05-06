@@ -1,11 +1,13 @@
 # Agent-Based Model
 
-Constructed using the learning material provided as part of GEO50003
+This was built using the learning material provided as part of GEO5003M. It can be accessed 
+via the Github repository linked below.
 
 The aim was to build a model where constructed agents interact with the environment by
 eating it. The agents can also interact each other and share the resources they have eaten.
 
-### Links
+
+## Links
 
 [Github repository](https://github.com/heatherpink/abm)
 
