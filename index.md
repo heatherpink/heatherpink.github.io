@@ -1,6 +1,4 @@
-# Name
-
-## Agent-Based Model
+# Agent-Based Model
 
 Constructed using the learning material provided as part of GEO50003
 
@@ -9,8 +7,8 @@ eating it. The agents can also interact each other and share the resources they 
 
 ### Links
 
-[Github repository](link)
+[Github repository](https://github.com/heatherpink/abm)
 
-[Model documentation](link)
+[Model documentation](https://heatherpink.github.io/model%20documentation.html)
 
-[Agentbasedframework documentation](link)
+[Agentbasedframework documentation](https://heatherpink.github.io/agentframework%20documentation.html)
